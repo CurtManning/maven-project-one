@@ -15,7 +15,7 @@ public class StudentDataUtil {
 		students.add(new Student("John", "Doe", "john@luv2code.com"));
 		students.add(new Student("Ajay", "Rao", "ajay@luv2code.com"));
 		
-		// return the list
+		// return the list 
 		return students;
 	}
 }
