@@ -1,4 +1,4 @@
-package com.luv2code.servletdemo.mvctwo;
+package com.example;
 
 import java.io.IOException;
 import java.util.List;
@@ -13,6 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class MvcDemoServletTwo
  */
+
 @WebServlet("/MvcDemoServletTwo")
 public class MvcDemoServletTwo extends HttpServlet {
 	private static final long serialVersionUID = 1L;
